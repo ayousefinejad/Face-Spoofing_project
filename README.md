@@ -1,4 +1,4 @@
-# Face-Spoofing_project
+# Shenasa-Intern
 
 Download the pre trained model from the link below
 
