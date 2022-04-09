@@ -1,5 +1,5 @@
 # Shenasa-Intern
-Face livieness verification is an important part of the recognition process. It is mainly used to distinguish real faces from fake face images, and can identify spoofing behaviors using paper printing (Paper attack), screen remakes (replay attack) and 3D models(mask attack).
+Face liveness verification is an important part of the recognition process. It is mainly used to distinguish real faces from fake face images, and can identify spoofing behaviors using paper printing (Paper attack), screen remakes (replay attack) and 3D models(mask attack).
 
 
 ## Dataset
