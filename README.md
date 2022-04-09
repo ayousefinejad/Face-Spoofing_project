@@ -20,4 +20,4 @@ Download the pre trained model from the link below
 Link: https://drive.google.com/file/d/1qEKVVxNsovVNUykq9acDcxp9hw_SaGUp/view?usp=sharing
 
 ## Test case
-![alt text](?raw=true)
+![alt text](https://github.com/ayousefinejad/Shenasa-Internship/blob/16ea49aefe90b593739753e4a256999b301c0270/test_case_image.jpeg?raw=true)
