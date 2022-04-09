@@ -3,7 +3,7 @@ Face livieness verification is an important part of the recognition process. It 
 
 
 ## Dataset
-
+For train model (First filter) i used OULU database
 
 
 ## Approach
